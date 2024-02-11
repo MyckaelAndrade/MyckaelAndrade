@@ -11,4 +11,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=MyckaelAndrade&show_icons=true" />
 </picture>
-
+<br>
+<div align="center">
+  <div style="displayf: inline_block"><br>
+    <img align="left" height="250" alt="coding" scr="giphy.gif">
+  </div>
+</div>
