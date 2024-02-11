@@ -27,10 +27,12 @@
     <a href="https://www.linkedin.com/in/myckael-andrade-7b8489211/">
     <img width="30" src="linkedin.svg">
   </a>
-    <a href="myckael.and@gmail.com">
+    <a href="mailto: myckael.and@gmail.com">
     <img width="30" src="gmail.svg">
   </a>
     <a href="(64)992771795">
     <img width="30" src="whatsapp.svg">
   </a>
 </div>
+
+![Snake animation](https://github.com/MyckaelAndrade/MyckaelAndrade/blob/output/github-contribution-grid-snake.svg)
