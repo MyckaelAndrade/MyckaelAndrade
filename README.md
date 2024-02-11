@@ -1,6 +1,6 @@
 ## Hey dev, Welcome!
 
-![snake gif](https://github.com/MyckaelAndrade/MyckaelAndrade/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MyckaelAndrade/MyckaelAndrade/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MyckaelAndrade&show_icons=true&bg_color=00000000">
