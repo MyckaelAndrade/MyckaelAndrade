@@ -9,6 +9,9 @@
   <div style="displayf: inline_block"><br>
     <img align="left" height="250" alt="coding" scr="whatsapp.png">
     <h1 align="center"> Principais Tecnologias </h1>
-    <img align="center" 
+    <img align="center" height="30" width="40" alt="java" src="">
+    <img align="center" height="30" width="40" alt="C" src="">
+    <img align="center" height="30" width="40" alt="html" src="">
+    <img align="center" height="30" width="40" alt="css" src="">
   </div>
 </div>
