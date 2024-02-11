@@ -40,3 +40,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MyckaelAndrade}/count.svg" /></p> 
 <br>
 </div>
+
+![snake gif](https://github.com/MyckaelAndrade/MyckaelAndrade/blob/output/github-contribution-grid-snake.svg)
