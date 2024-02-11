@@ -9,7 +9,7 @@
 
 <div align="center">
   <div style="displayf: inline_block"><br>
-    <img align="left" height="250" alt="coding" scr="https://i.gifer.com/Ao.gif">
+    <img align="left" height="250" alt="coding" src="Ao.gif">
     <h1 align="center"> Main Technologies </h1>
     <img align="center" height="30" width="40" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
