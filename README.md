@@ -14,7 +14,7 @@
 <br>
 <div align="center">
   <div style="displayf: inline_block"><br>
-    <img align="left" height="250" alt="coding" scr="">
+    <img align="left" height="250" alt="coding" scr="whatsapp.png">
     <h1 align="center"> Principais Tecnologias </h1>
   </div>
 </div>
