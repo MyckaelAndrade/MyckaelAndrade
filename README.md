@@ -18,16 +18,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyckaelAndrade&bg_color=transparent&color=ffffff&line=0000ff&point=0000ff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <div style="displayf: inline_block"><br>
-    <img align="left" height="250" alt="coding" src="Ao.gif">
-    <h1 align="center"> Main Technologies </h1>
-    <img align="center" height="30" width="40" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-
   <br>
   
   <h1 align="center"> Social Media </h1>
