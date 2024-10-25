@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hey+Dev,+My+Name+is+Myckael;I'm+19+years+old;I+am+from+Brazil;I+study+systems+development+at+IFG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
