@@ -1,12 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hey+Dev,+My+Name+is+Myckael;I'm+19+years+old;I+am+from+Brazil;I+study+systems+development+at+IFG;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-## WELCOME 👾
-
-
-
-    
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,7 +10,6 @@
     <br>
 </div>
 <br>
- 
 <div> 
   <a href="https://www.instagram.com/myckaelandradex//?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:myckael.and@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
@@ -29,15 +21,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyckaelAndrade&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
- 
-
 </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
